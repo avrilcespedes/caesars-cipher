@@ -1,5 +1,6 @@
 # This is a Python script that prompts the user for a plain text message and a key, and returns the ciphered version using the Caesar's Cipher method.
 
+
 # First we prompt the user for the plain text message and the key
 plainText = input("Enter the plain text message: ")
 key = int(input("Enter the key: "))
